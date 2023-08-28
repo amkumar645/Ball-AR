@@ -2,7 +2,7 @@
 Ball-AR is a two-player, co-located AR dodgeball game where users must hit the opponent 10 times with an augmented ball to win. Each user only gets one ball however, so after throwing it, they must go retrieve it in order to throw again. Also, users can ricochet the ball off physical surfaces, and are encouraged to as the more surfaces hit, the higher the score!.
 <br>
 <br>
-For more information, check out an 8-minute presentation about this game its purpose at https://loom.com/share/1ff17552cc2447f9b963d8fdbb70f3d6.
+For more information, check out an 8-minute presentation about this game and its purpose at https://loom.com/share/1ff17552cc2447f9b963d8fdbb70f3d6.
 <br>
 <br>
 Here is an example of throwing the ball in Ball-AR (if the videos don't show, you can download and play them there):
